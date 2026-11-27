@@ -19,4 +19,4 @@ while True:
     else:
         print(f"Congratulations! You are right in {attempts} attempts.")
         break
-    print("I am nayan")
+  
